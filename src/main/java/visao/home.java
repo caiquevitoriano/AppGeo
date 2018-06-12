@@ -10,7 +10,6 @@ import com.vividsolutions.jts.geom.Geometry;
 import com.vividsolutions.jts.io.ParseException;
 import com.vividsolutions.jts.io.WKTReader;
 import controle.CriaArquivoSvg;
-import controle.CriaSvg;
 import controle.ViewBox;
 import java.io.File;
 import java.io.IOException;
