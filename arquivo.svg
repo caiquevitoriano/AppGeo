@@ -3,10 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
 <svg xmlns="http://www.w3.org/2000/svg"
-	xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="50.0 100.0 230.0 230.0">
+	xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="60.0 180.0 190.0 200.0">
 
-	<path d="M104.0 266.0 L104.0 266.0 L246.0 266.0 L246.0 155.0 L104.0 155.0 L104.0 266.0 Z" stroke="blue" stroke-width="0.01" fill="blue" fill-opacity="0.5"/>
+	<path d="M60.0 380.0 L60.0 380.0 L205.0 380.0 L205.0 234.0 L60.0 234.0 L60.0 380.0 Z" stroke="blue" stroke-width="0.01" fill="blue" fill-opacity="0.5"/>
 	
-	<path d="M50.0 330.0 L50.0 330.0 L280.0 330.0 L280.0 100.0 L50.0 100.0 L50.0 330.0 Z" stroke="red" stroke-width="0.01" fill="red" fill-opacity="0.5"/>
+	<path d="M250.0 180.0 L250.0 180.0 L140.0 180.0 L140.0 280.0 L250.0 280.0 L250.0 180.0 Z" stroke="red" stroke-width="0.01" fill="red" fill-opacity="0.5"/>
 
 </svg>

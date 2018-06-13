@@ -12,6 +12,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
+
 /**
  *
  * @author caique
@@ -43,7 +44,7 @@ public class CriaArquivoSvg {
                         "<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\" \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n" +
                         "\n" +
                         "<svg xmlns=\"http://www.w3.org/2000/svg\"\n" +
-                        "	xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"200\" height=\"200\" viewBox=\"";
+                        "	xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"400\" height=\"400\" viewBox=\"";
        
        String parte2 =  "\">\n" +
                         "\n" +

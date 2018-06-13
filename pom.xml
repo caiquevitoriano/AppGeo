@@ -19,10 +19,17 @@
             <artifactId>jts</artifactId>
             <version>1.13</version>
         </dependency>
+        
         <dependency>
             <groupId>org.eclipse.persistence</groupId>
             <artifactId>javax.persistence</artifactId>
             <version>2.1.0</version>
+        </dependency>
+        
+         <dependency>
+            <groupId>batik</groupId>
+            <artifactId>batik-transcoder</artifactId>
+            <version>1.6-1</version>
         </dependency>
     </dependencies>
 </project>
